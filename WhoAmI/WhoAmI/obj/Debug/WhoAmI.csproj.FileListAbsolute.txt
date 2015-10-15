@@ -1,0 +1,14 @@
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\WhoAmI.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\WhoAmI.pdb
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.views.Login.xaml.g.cs
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.views.CadastroUsuario.xaml.g.cs
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.views.WhoPage.xaml.g.cs
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.views.AmPage.xaml.g.cs
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.views.IPage.xaml.g.cs
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\obj\Debug\WhoAmI.pdb

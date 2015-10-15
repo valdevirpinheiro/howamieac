@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="WhoAmI\WhoAmI.Droid\WhoAmI.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_GalaxyNexus_ToolsForApacheCordova" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhoAmI\WhoAmI.Droid\Resources\values\Styles.xml">
+    <Files>
+      <File FileName="WhoAmI\WhoAmI\views\IPage.xaml" Line="15" Column="117" />
+      <File FileName="WhoAmI\WhoAmI\views\AmPage.xaml" Line="16" Column="78" />
+      <File FileName="WhoAmI\WhoAmI\views\WhoPage.xaml.cs" Line="55" Column="50" />
+      <File FileName="WhoAmI\WhoAmI\views\HomePage.cs" Line="19" Column="44" />
+      <File FileName="WhoAmI\WhoAmI\App.cs" Line="15" Column="72" />
+      <File FileName="WhoAmI\WhoAmI.Droid\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="WhoAmI\WhoAmI\views\CustomEntryCell.cs" Line="6" Column="1" />
+      <File FileName="WhoAmI\WhoAmI\views\CustomEntry.cs" Line="10" Column="1" />
+      <File FileName="WhoAmI\WhoAmI.Droid\Resources\values\Styles.xml" Line="23" Column="43" />
+      <File FileName="WhoAmI\WhoAmI\views\Login.xaml.cs" Line="17" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\views\WhoPage.xaml.cs" line="60" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\views\WhoPage.xaml.cs" line="91" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\views\WhoPage.xaml.cs" line="17" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI\views\WhoPage.xaml.cs" line="19" column="5" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

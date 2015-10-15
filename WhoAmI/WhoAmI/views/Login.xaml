@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WhoAmI.views.Login"
+             BackgroundImage="login_background.png"
+             xmlns:local="clr-namespace:WhoAmI;assembly=WhoAmI"
+           >
+    <ContentPage.Content BackgroundImage="login_background.png">
+        <StackLayout HorizontalOptions="CenterAndExpand" 
+            VerticalOptions="CenterAndExpand" 
+            BackgroundColor="Transparent" 
+            Padding="5">
+            <Image WidthRequest="200"
+                HeightRequest="100"
+                BackgroundColor="Transparent"
+                Source="icon.png"/>
+           <local:CustomEntry Text ="Usuário" Keyboard="Email"/>
+          <local:CustomEntry  Text ="Senha" Keyboard="Numeric"/>
+            <Button Text="Login" TextColor="White" BackgroundColor="Gray"  Clicked="Login_Clicked"></Button>
+            <Button Text="Criar novo usuário" TextColor="White" BorderWidth="0" BackgroundColor="Transparent" FontSize="12" Clicked="CadastroUsuario_Clicked"></Button>
+            <!---<Label Text="Bem Vindo ao Super App" />-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
