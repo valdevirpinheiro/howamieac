@@ -15,6 +15,7 @@ public final class R {
         public static final int funcionario=0x7f020001;
         public static final int icon=0x7f020002;
         public static final int login_background=0x7f020003;
+        public static final int logo=0x7f020004;
     }
     public static final class style {
         /**  the theme applied to the application or activity 

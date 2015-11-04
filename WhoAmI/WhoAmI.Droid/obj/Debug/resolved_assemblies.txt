@@ -60,8 +60,11 @@ C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Dro
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Xml.ReaderWriter.dll
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Xml.XDocument.dll
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Xml.XmlSerializer.dll
-C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Runtime.Serialization.dll
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Net.Http.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\Microsoft.CSharp.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\Mono.CSharp.dll
+C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Runtime.Serialization.dll
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.ComponentModel.DataAnnotations.dll
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.ComponentModel.Composition.dll
 C:\Users\valdevir\Documents\Visual Studio 2015\Projects\WhoAmI\WhoAmI\WhoAmI.Droid\obj\Debug\assemblies\System.Numerics.dll

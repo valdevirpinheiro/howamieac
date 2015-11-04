@@ -106,6 +106,19 @@ Global
 		{D48388B7-ED96-4952-9BD9-AC0B80F555D1}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{D48388B7-ED96-4952-9BD9-AC0B80F555D1}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.TextStylePolicy = $3
+		$3.EolMarker = Unix
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

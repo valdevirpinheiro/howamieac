@@ -56,6 +56,9 @@ namespace WhoAmI.Droid
 			// aapt resource value: 0x7f020003
 			public const int login_background = 2130837507;
 			
+			// aapt resource value: 0x7f020004
+			public const int logo = 2130837508;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
