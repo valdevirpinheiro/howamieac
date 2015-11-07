@@ -15,7 +15,7 @@ namespace WhoAmI.views
             InitializeComponent();
 			NavigationPage.SetHasNavigationBar(this, false);
 			WhoAmI.ApiCall apiCall = new ApiCall ();
-			apiCall.GetResponse<List<RegistroPonto>>("registrosDiaModulo", "1").ContinueWith(t =>
+            List<RegistroPonto> lista = apiCall.GetResponse<List<RegistroPonto>> ("registrosDiaModulo", "1").ContinueWith(t =>
 				{
 					//O ContinueWith é responsavel por fazer algo após o request finalizar
 
@@ -57,6 +57,7 @@ namespace WhoAmI.views
 
         public void Login_Clicked(object sender, EventArgs e)
         {
+
             Navigation.PushAsync(new HomePage());
         }
         public void CadastroUsuario_Clicked(object sender, EventArgs e)

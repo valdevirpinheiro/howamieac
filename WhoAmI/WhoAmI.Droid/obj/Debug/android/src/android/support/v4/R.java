@@ -15,5 +15,17 @@ public final class R {
         public static int funcionario=0x7f020001;
         public static int icon=0x7f020002;
         public static int login_background=0x7f020003;
+        public static int logo=0x7f020004;
+    }
+    public static final class style {
+        /**  the theme applied to the application or activity 
+         */
+        public static int CustomActionBarTheme=0x7f030001;
+        public static int CustomTheme=0x7f030000;
+        /**  ActionBar styles 
+         */
+        public static int MyActionBar=0x7f030002;
+        public static int MyActionBar_ActionBar_TitleTextStyle=0x7f030004;
+        public static int MyActionBar_ActionBarStyle=0x7f030003;
     }
 }

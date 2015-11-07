@@ -1,14 +1,23 @@
 ﻿using System;
+using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace WhoAmI
 {
 	public class RegistroPonto
-	{	
-		int data {get;set;}
-		int hora {get;set;}
-		int empNO {get;set;}
-		string tipoPonto {get;set;}
+    {	
+        [JsonProperty ("data")]
+        public int data {get;set;}
 
+        [JsonProperty ("hora")]
+        public int hora {get;set;}
+
+        [JsonProperty ("empNO")]
+        public int empNO {get;set;}
+
+        [JsonProperty ("tipoPonto")]
+        public char tipoPonto {get;set;}
+		
 		public RegistroPonto ()
 		{
 

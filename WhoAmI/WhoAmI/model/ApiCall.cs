@@ -17,7 +17,7 @@ namespace WhoAmI
 		//http://192.168.0.106:8080/howamirs/howamirs/registrosDiaModulo/1
 
 
-		public async Task<T> GetResponse<T>(string method, string param) where T : class
+        public async Task<T> GetResponse<T>(string method, string param) 
 		{
 
 			var client = new System.Net.Http.HttpClient();
@@ -45,7 +45,7 @@ namespace WhoAmI
 				return null;
 
 			//Converte o resultado Json para uma Classe utilizando as Libs do Newtonsoft.Json
-			var rootobject = JsonConvert.DeserializeObject<T>(JsonResult);
+            var rootobject = JsonConvert.DeserializeObject<List<RegistroPonto>>(JsonResult);
 
 			return rootobject;
 		}
